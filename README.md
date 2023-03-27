@@ -73,6 +73,21 @@
   - webgl publisher - publish menu item
   - builds to local folder
   - takes quite some time
+  - puts the game on the website
+    - add a thumbnail
+    - add a gameplay preview video by playing the game
+
+# analyze what's in a unity project
+
+## folder structure
+- Assets
+- Library
+- Logs
+- Packages
+- ProjectSettings
+- Temp
+- UserSettings
+- WebGL Builds
 
 # links
 
