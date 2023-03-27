@@ -88,9 +88,39 @@
     - file extension .shader
   - C#
   - HLSL
+    - High level shader language - C-like language used with programmable shaders in DirectX
 - Assets
   - Audio
     - wavs and wav.meta
+  - Character
+    - has some .meta files
+      - all meta files look like yaml
+    - animations subfolder
+      - has .anim files
+      - has .anim.meta files
+      - has .controller file
+      - .controller.meta
+    - sprites subfolder
+      - .png and .png.meta files
+      - the pngs contain multiple images representing the object in different states
+  - Environment - two folders with png and their metadatas
+    - sprites
+    - tiles
+  - Mod Assets
+    - has prefabs
+      - more yml files
+    - fonts
+      - also yml
+    - materials (.mat)
+  - Scenes
+    - .unity (yml) - very long, 200K lines long
+    - .unity.meta
+    - .lighting
+    - .lighting.meta
+  - Scripts - home of the .cs files
+    - using UnityEngine;
+
+
 - Library
   - i guess this is all the unity stuff placed into the project
 - Logs
