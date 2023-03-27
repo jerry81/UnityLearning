@@ -80,8 +80,19 @@
 # analyze what's in a unity project
 
 ## folder structure
+
+- languages
+  - Shaderlab (decl language specific to unity)
+    - for shaders
+    - "regular HLSL/Cg shading language"
+    - file extension .shader
+  - C#
+  - HLSL
 - Assets
+  - Audio
+    - wavs and wav.meta
 - Library
+  - i guess this is all the unity stuff placed into the project
 - Logs
 - Packages
 - ProjectSettings
