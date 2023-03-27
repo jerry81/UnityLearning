@@ -41,6 +41,38 @@
 - course, unity essentials
 - install unity hub and editor
 - microgames tutorials
+  - unity editor opens
+
+
+## unity editor
+
+- unity editor itself has tutorials built in.
+- trying side scroller tutorial
+
+- feature 1 - play tester
+  - enter play mode by hitting the play button
+  - hit play again to exit
+
+- hierarchy
+  - folder structure that contains samplescene which has objects like player, enemies, camera, gamecontroller
+  - visual ui to edit properties of objects like player
+
+- debug loop - edit and play the game again, yes the character moves very fast now
+
+- hand tool - navigate around the scene
+
+- move tool - reposition stuff
+
+- frame tool - zooms into a selected object
+
+- drag enemy prefab (template for game object) into scene
+
+- scale and rotate the enemy
+
+- build and publish
+  - webgl publisher - publish menu item
+  - builds to local folder
+  - takes quite some time
 
 # links
 
