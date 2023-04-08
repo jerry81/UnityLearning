@@ -21,3 +21,14 @@
   - e.g. webgl support
 
 # unity editor
+
+- unlike microgame, this tutorial starts a project from scratch
+
+- new 3d project starts with just
+- scene
+  - camera
+  - lighting
+
+- first step: add 3d object -> cube
+
+- so zooming in on a panel in unity maximizes it...
