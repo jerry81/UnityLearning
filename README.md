@@ -130,6 +130,10 @@
 - UserSettings
 - WebGL Builds
 
+# tutorial notes
+
+[Unity Essentials](./tutorials/unity_essentials.md)
+
 # links
 
 - [getting started with game development](./g4g.md)
