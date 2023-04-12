@@ -51,3 +51,8 @@
 
 - scale tool
   - click the middle to scale all three dimensions together
+
+## package manager
+
+- unity editor -> package manager window
+- has my-assets section
