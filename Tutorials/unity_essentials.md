@@ -43,3 +43,11 @@
   - zoom: hold option right click and drag
   - orbit: hold option, left click
   - focus - hit f in scene view while game object is selected
+
+- flythrough
+  - hold right button and wasd to move
+  - also use q and e to move up and down
+  - shift to move faster
+
+- scale tool
+  - click the middle to scale all three dimensions together
