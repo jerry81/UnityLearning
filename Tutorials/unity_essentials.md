@@ -56,3 +56,10 @@
 
 - unity editor -> package manager window
 - has my-assets section
+
+## real time
+
+- unity is real time - meaning image is quickly rendered on screen
+- requires quick rendering
+
+## what is unity
