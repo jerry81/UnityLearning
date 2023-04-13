@@ -63,3 +63,13 @@
 - requires quick rendering
 
 ## what is unity
+
+- game engine that has evolved
+- what is game engine?
+  - many components
+    - 3d models
+    - textures
+    - audio
+    - scripts
+    - animation
+    - 2d sprites
